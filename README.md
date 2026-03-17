@@ -44,7 +44,7 @@ This project demonstrates proficiency in:
 **→ `Embedded Systems Programming (C/C++)` and hardware-software integration.**  
 **→ `Sensor Polling`, including `ultrasonic wave timing` and `distance conversion`.**  
 **→ `Actuator Control logic` using H-bridges and differential steering kinematics.**
-**→ `Serial Communication Protocols (UART)` for interfacing with external peripherals.**
+**→ `Serial Communication Protocols (UART)` for interfacing with external peripherals.**  
 **→ `Algorithm Design`, specifically implementing deterministic state decisions and randomized recovery routines.**  
 
 # Testing  
